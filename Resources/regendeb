@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# regendeb. Used to correctly and automatically create deb files of tvOS or iOS apps that can be run from /Applications.
+# regendeb.
 
 #Check dependancies
 if ! type dpkg &>/dev/null; then
